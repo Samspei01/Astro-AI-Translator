@@ -1,16 +1,26 @@
-# astro
+# Astro-AI-Translator
 
-A new Flutter project.
+This project is a Flutter mobile application designed to perform multiple language processing tasks, including translation, speech-to-text, text-to-speech, and text detection using a camera or gallery. It's built for users who need a versatile language tool on their mobile devices. The app uses pre-trained models from flutter.dev, integrating several functionalities into a single interface designed in Figma.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Translation**: Instantly translate text between multiple languages.
+- **Speech to Text**: Convert spoken language into text.
+- **Text to Speech**: Turn text into spoken audio.
+- **Language Detection**: Automatically detect the language of the input text.
+- **Text Detection**: Capture text via camera or select from the gallery.
 
-A few resources to get you started if this is your first Flutter project:
+## Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Before you begin, ensure you have met the following requirements:
+- Flutter SDK installed
+- Suitable IDE (e.g., Android Studio, VS Code)
+- An Android or iOS device or emulator for testing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+Clone the repository and navigate to the project directory:
+
+```bash
+git clone https://github.com/your-username/your-repository-name.git
+cd your-repository-name
