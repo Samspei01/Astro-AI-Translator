@@ -1,5 +1,4 @@
-# Astro-AI-Translator
-![My first design 1](https://github.com/Samspei01/Astro-AI-Translator/assets/155198764/b9178693-c612-4571-925a-4b03ecab2ea9)
+<img src="https://raw.githubusercontent.com/Samspei01/Astro-AI-Translator/main/assets/yourimagename.png" width="250">
 
 This project is a Flutter mobile application designed to perform multiple language processing tasks, including translation, speech-to-text, text-to-speech, and text detection using a camera or gallery. It's built for users who need a versatile language tool on their mobile devices. The app uses pre-trained models from flutter.dev, integrating several functionalities into a single interface designed in Figma.
 
@@ -11,7 +10,7 @@ This project is a Flutter mobile application designed to perform multiple langua
 - **Language Detection**: Automatically detect the language of the input text.
 - **Text Detection**: Capture text via camera or select from the gallery.
 
-## Install app  to use it
+## Install app to use it
 
 [Install App](https://drive.google.com/file/d/1jzG8p_YUEy_H0X9XPnGLyG14dnKaif4N/view?usp=sharing)
 
