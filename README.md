@@ -28,3 +28,10 @@ Clone the repository and navigate to the project directory:
 ```bash
 git clone https://github.com/Samspei01/Astro-AI-Translator.git
 cd Astro-AI-Translator
+```
+### Contact
+
+For questions or support, you can reach out to the project maintainers:
+- Abdelrhman Saeed: [abdosaaed749@gmail.com](mailto:abdosaaed749@gmail.com)
+- mo reffat: [reffat@gmail.com](mailto:reafat@gmail.com)
+
