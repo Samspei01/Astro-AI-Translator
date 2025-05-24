@@ -28,3 +28,5 @@ Clone the repository and navigate to the project directory:
 ```bash
 git clone https://github.com/Samspei01/Astro-AI-Translator.git
 cd Astro-AI-Translator
+
+body
