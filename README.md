@@ -32,6 +32,7 @@ cd Astro-AI-Translator
 ### Contact
 
 For questions or support, you can reach out to the project maintainers:
+- Mohamed Refaat: [morefaat356@gmail.com](mailto:morefaat356@gmail.com)
 - Abdelrhman Saeed: [abdosaaed749@gmail.com](mailto:abdosaaed749@gmail.com)
-- mo reffat: [reffat@gmail.com](mailto:reafat@gmail.com)
+
 
